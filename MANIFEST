@@ -1,0 +1,8 @@
+lib/Net/Accounting.pm
+lib/Net/Accounting/Sendmail.pm
+Build.PL
+Changes
+MANIFEST
+Makefile.PL
+README
+test.pl
