@@ -13,7 +13,7 @@ require AutoLoader;
 @EXPORT = qw(
 	
 );
-$VERSION = '0.1';
+$VERSION = '0.2';
 
 %MMAP = (
   "Sendmail" => "Net::Accounting::Sendmail",
